@@ -125,7 +125,7 @@ COVID-19 Pulmonary and Ventilator Care Micro-Credential, *American Association o
 | Home Health Care Assistance | 6 |
 | In His Name Food Drive for greater Rochester, MN area | 6 |
 | HopeFest Tucson: Medical Escort | 5 |
-| Feed My Starving Children	| 2.5 |
+| Feed My Starving Children | 2.5 |
 
 
 <!-- ### Footer
