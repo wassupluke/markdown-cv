@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Luke Wass's CV
 ---
 # Luke Wass
 Bachelor of Science in Nursing, Registered Nurse, Critical Care Registered Nurse.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="wassupluke@gmail.com">wassupluke@gmail.com</a>
+| <a href="http://wassupluke.com">My website</a>
 </div>
 
 
