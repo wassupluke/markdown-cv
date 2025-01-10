@@ -6,7 +6,7 @@ title: Luke Wass's CV
 Bachelor of Science in Nursing, Registered Nurse, Critical Care Registered Nurse.
 
 <div id="webaddress">
-<a href="wassupluke@gmail.com">wassupluke@gmail.com</a>
+<a href="mailto:wassupluke@gmail.com">wassupluke@gmail.com</a>
 | <a href="http://wassupluke.com">My website</a>
 </div>
 
